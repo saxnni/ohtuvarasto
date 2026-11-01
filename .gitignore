@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+.pytest_cache/
+
+# Temporary files in repository root
+/*.tmp
